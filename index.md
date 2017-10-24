@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 2. encrypted record collection
 3. encrypted record sharing
 
-![Image](./intro.png)
+![Image](./intro.jpg)
 
 
 ### Support or Contact
