@@ -1,34 +1,19 @@
-## Welcome to Base64SecurityApp Pages
+## Welcome to Base64SecurityApp
 
 Whenever you use this App, Quickly use [Base64](https://en.wikipedia.org/wiki/Base64) encrypt and decrypt the content you want by phone.
+
+Base64 is a group of similar binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation. The term Base64 originates from a specific MIME content transfer encoding.
 
 ### FEATURES
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+1. Base64 encryption and decryption
+2. encrypted record collection
+3. encrypted record sharing
 
-# Header 1
-## Header 2
-### Header 3
+![Image](./intro.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanghaitao05/wanghaitao05.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
