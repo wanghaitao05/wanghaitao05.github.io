@@ -8,9 +8,10 @@ Base64 is a group of similar binary-to-text encoding schemes that represent bina
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-1. Base64 encryption and decryption
-2. encrypted record collection
-3. encrypted record sharing
+1. Copy Base64 Content with QR Code.
+2. Base64 encryption and decryption
+3. encrypted record collection
+4. encrypted record sharing
 
 ![Image](./website.png)
 
