@@ -14,8 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ![Image](./website.png)
 
-![Image](./intro.jpg)
-
 
 ### Support or Contact
 
